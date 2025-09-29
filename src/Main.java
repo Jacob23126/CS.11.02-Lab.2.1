@@ -2,7 +2,7 @@
 *****************************************************************************************************
 * By writing your name in the space provided below, you are honouring the CIS academic honesty pledge 
 * “I have neither given nor received unauthorized aid on this piece of work.”
-* NAME: Jacob
+* NAME: Jacob K
 *****************************************************************************************************
 */
 public class Main {
